@@ -1,4 +1,4 @@
-# SciFi Cleanup & Boost Tool
+# PC_Speed_Booster_and_Cleaner
 
 A Windows 10/11 cleanup and performance boost tool developed by Min Thuta Saw Naing. This tool performs system cleanup tasks, including cleaning temporary files, system logs, emptying the Recycle Bin, running disk cleanup, and defragmenting the disk, all while offering a sleek sci-fi-inspired UI.
 
